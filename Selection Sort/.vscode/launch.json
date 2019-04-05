@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sSort",
+            "request": "launch",
+            "mainClass": "sSort"
+        }
+    ]
+}
